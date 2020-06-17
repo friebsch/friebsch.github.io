@@ -4,3 +4,5 @@ Mr. Card is no ordinary down-and- out Private Eye. He is a man who exists fully 
 * Trinkfest
 * Zynisch
 * Unterhaltsam
+## Zitate
+> His mother, his landlady, a peg-legged manager of the city morgue, a tough cop (Sgt. Rink)that no criminal should ever want to encounter and a couple of Femme Fatales that neither Bogie or Dick Powell ever had to deal with.
